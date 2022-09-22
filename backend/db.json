@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo:": "Que bom que você veio!",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo:": "Um Anel, para todos governar.",
+      "autoria": "Sauron",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo:": "O sol te afasta dos meus sonhos, Amargandando o meu doce dia, Me enrolar nos teus cachos negros e nadar no lilás desse teu olhar, pegadas de lobos na neva me guiam, levando até teum coração imóvel, deixam os teus doces lábios a flamejar, o som te afasta dos meus sonhos, amargando o meu doce dia!",
+      "autoria": "Priscila",
+      "modelo": "modelo2"
+    }
+  ]
+}
